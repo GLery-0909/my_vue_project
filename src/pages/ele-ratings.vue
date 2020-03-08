@@ -1,6 +1,6 @@
 <template>
   <div>
-    ele-ratings
+    ele-ratings.vue
   </div>
 </template>
 
@@ -10,4 +10,4 @@ export default {
 };
 </script>
 
-<style></style>
+<style scoped></style>
